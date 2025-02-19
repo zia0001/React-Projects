@@ -1,6 +1,6 @@
 function KgButn() {
 
-  return  <button> Click for more info</button>
+  return  <button> Click to generate  random numbers</button>
 
 } 
 
